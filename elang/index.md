@@ -1,7 +1,7 @@
 ## Introductory Material
 
 <section class="link-desc">
-        <a href="http://www.skyhunter.com/marcs/ewalnut.html">The <em class="e-lang">E</em> Language in a Walnut</a>
+        <a href="http://www.skyhunter.com/marcs/ewalnut.html"><strong>The <em class="e-lang">E</em> Language in a Walnut</strong></a>
         <span class="desc">Marc Stiegler's draft book introducting <em class="e-lang">E</em></span>
 </section>
 <section class="link-desc">
