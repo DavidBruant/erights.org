@@ -18,7 +18,7 @@ main {
 .link-desc{
   display: flex;
   flex-direction: row;
-  height: 2em;
+  min-height: 2em;
   justify-content: flex-start;
   align-items: center; 
   width: 100%;
