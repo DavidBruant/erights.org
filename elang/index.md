@@ -1,11 +1,11 @@
 ## Introductory Material
 
 <section class="link-desc">
-        [The <em class="e-lang">E</em> Language in a Walnut](http://www.skyhunter.com/marcs/ewalnut.html)
+        <a href="http://www.skyhunter.com/marcs/ewalnut.html">The <em class="e-lang">E</em> Language in a Walnut</a>
         <span class="desc">Marc Stiegler's draft book introducting <em class="e-lang">E</em></span>
 </section>
 <section class="link-desc">
-        [<em class="e-lang">E</em> Tutorial](intro/index.html)
+        <a href="intro/index.html"><em class="e-lang">E</em> Tutorial</a>
         <span class="desc">More introductory material</span>
 </section>
 
