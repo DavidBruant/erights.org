@@ -1,17 +1,15 @@
-<table cellpadding="6">
-        <tbody><tr>
-          <td colspan="2"> <h2>Introductory Material</h2></td>
-        </tr>
-        <tr>
-          <td><a href="http://www.skyhunter.com/marcs/ewalnut.html"><b><font size="+2">The
-            <i><b><font color="#009000">E</font></b></i> Language in a Walnut</font></b></a></td>
-          <td>Marc Stiegler's draft book introducting <i><b><font color="#009000">E</font></b></i></td>
-        </tr>
-        <tr>
-          <td><a href="intro/index.html"><i><b><font color="#009000">E</font></b></i>
-            Tutorial</a> </td>
-          <td>More introductory material</td>
-        </tr>
+## Introductory Material
+
+<section class="link-desc">
+        [The <em class="e-lang">E</em> Language in a Walnut](http://www.skyhunter.com/marcs/ewalnut.html)
+        <span class="desc">Marc Stiegler's draft book introducting <em class="e-lang">E</em></span>
+</section>
+<section class="link-desc">
+        [<em class="e-lang">E</em> Tutorial](intro/index.html)
+        <span class="desc">More introductory material</span>
+</section>
+
+<table cellpadding="6"><tbody>
         <tr>
           <td><a href="intro/index.html"><i><b><font color="#009000">E</font></b></i></a><a href="quick-ref.html">
             Idioms Quick Reference Card</a> </td>
