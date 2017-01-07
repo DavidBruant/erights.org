@@ -2,8 +2,8 @@ title: "blabla"
 author: "someone"
 description: "Really cool website about"
 more: "read more"
-url: "https://erights.org/"
-# baseurl: "/writings" # comment out if in root directory
+origin: "https://davidbruant.github.io"
+baseurl: "/erights.org"
 
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
