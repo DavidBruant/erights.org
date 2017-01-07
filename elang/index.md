@@ -8,16 +8,17 @@
         <a href="intro/index.html"><em class="e-lang">E</em> Tutorial</a>
         <span class="desc">More introductory material</span>
 </section>
+<section class="link-desc">
+        <a href="quick-ref.html"><em class="e-lang">E</em> Idioms Quick Reference Card</a>
+        <span class="desc">Fast reminders</span>
+</section>
+
+<hr>
+
+## Language Specification
+
 
 <table cellpadding="6"><tbody>
-        <tr>
-          <td><a href="intro/index.html"><i><b><font color="#009000">E</font></b></i></a><a href="quick-ref.html">
-            Idioms Quick Reference Card</a> </td>
-          <td>Fast reminders</td>
-        </tr>
-        <tr>
-          <td colspan="2"> <hr> <h2>Language Specification</h2></td>
-        </tr>
         <tr>
           <td><a href="intro/index.html"><i><b><font color="#009000">E</font></b></i></a><a href="grammar/index.html">
             Language Grammar</a> </td>
