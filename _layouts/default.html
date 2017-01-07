@@ -9,9 +9,7 @@
   </head>
   <body TEXT="#000000" BGCOLOR="#FFEEDD" LINK="#0000FF" VLINK="#800080">
     <article>
-      <header>
-        <p>{% if page.author %}{{ page.author }} • {% endif %}{% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% endif %}{% if page.categories %} • {{ page.categories | array_to_sentence_string }}{% endif %}</p>
-      </header>
+      <header></header>
       <div>
 {{ content }}
       </div>
