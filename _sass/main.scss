@@ -14,3 +14,29 @@ body {
 main {
   max-width: 80%;
 }
+
+.link-desc{
+  display: flex;
+  flex-direction: row;
+  height: 2em;
+  justify-content: flex-start;
+  align-items: center; 
+  width: 100%;
+  
+  
+  a{
+    flex: 1;
+  }
+  
+  .desc{
+    flex: 2;
+  }
+  
+}
+
+em.e-lang{
+  font-weight: bold;
+  font-style: italic;
+  color: #009000;
+  text-transform: uppercase;
+}
